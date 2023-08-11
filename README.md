@@ -1,4 +1,4 @@
-# alphabet-book-android-app
+# Alphabet Book Android App
 The Alphabet Book App is a simple educational application that helps users explore the alphabet through interactive pages for each letter. It allows users to navigate through the letters of the alphabet and view corresponding images associated with each letter.
 
 ## Features
